@@ -1,13 +1,9 @@
 1.Знайти всіх людей, зп більше 500. за спаданням.
-db.People.find(
-{
-"Salary" : { "$gt" : 500 }
-}
-).sort(
-{
-"Salary" : -1
-}
-);
+```js
+db.People
+  .find({"Salary" : { "$gt" : 500 }})
+  .sort({"Salary" : -1});
+```
 
 2.Людей 300 до 500. вивести іх клас.
 db.People.find({
