@@ -6,8 +6,8 @@
 
 ### People:
 
-[](github.com/...)
+[Мой сайт](http://www.example.com/)
 
 ### Orders:
 
-[](github.com/...)
+[Мой сайт](http://www.example.com/)
