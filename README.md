@@ -4,10 +4,10 @@
 
 ## Collections
 
-### People:
+## People:
 
 [Collections"People"](https://github.com/AlexeyLobanov1/MongoDB/blob/main/Collections%22People%22.json)
 
-### Orders:
+## Orders:
 
 [Collections"Orders"](https://github.com/AlexeyLobanov1/MongoDB/blob/main/Collections%22Orders%22.json)
