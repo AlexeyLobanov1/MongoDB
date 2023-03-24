@@ -123,8 +123,7 @@ db.People.find({
 $or: [
 { Salary: { $gte: 500 } },
 { Date: { $lt: "1997" } }
-]
-});
+]});
 ```
 
 18.Вивести всіх людей але щоб колонка Ім'я була унікальною.
@@ -162,8 +161,7 @@ foreignField: "_id",
 as: "People"},},
 {
 $match: {
-"People.Clases_name": "jun"},
-}
+"People.Clases_name": "jun"},}
 ]);
 ```
 
