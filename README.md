@@ -6,8 +6,8 @@
 
 ## People:
 
-[Collections"People"](https://github.com/AlexeyLobanov1/MongoDB/blob/main/Collections%22People%22.json)
+[Collections "People"](https://github.com/AlexeyLobanov1/MongoDB/blob/main/Collections%22People%22.json)
 
 ## Orders:
 
-[Collections"Orders"](https://github.com/AlexeyLobanov1/MongoDB/blob/main/Collections%22Orders%22.json)
+[Collections "Orders"](https://github.com/AlexeyLobanov1/MongoDB/blob/main/Collections%22Orders%22.json)
